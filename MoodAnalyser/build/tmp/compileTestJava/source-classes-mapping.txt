@@ -1,2 +1,0 @@
-com/bridgelabz/MoodTest.java
- com.bridgelabz.MoodTest

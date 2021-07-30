@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.MoodTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-07-30T18:48:32" hostname="DESKTOP-UD4BENK" time="0.022">
+<testsuite name="com.bridgelabz.MoodTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-07-30T18:54:52" hostname="DESKTOP-UD4BENK" time="0.008">
   <properties/>
-  <testcase name="testMoodAnalysis_whenMoodIsHappy" classname="com.bridgelabz.MoodTest" time="0.022"/>
+  <testcase name="testMoodAnalysis_whenMoodIsHappy" classname="com.bridgelabz.MoodTest" time="0.008"/>
   <testcase name="testMoodAnalysis_whenMoodIsSad" classname="com.bridgelabz.MoodTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
